@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Which metrics can evaluate retrieval ranking?",
+    "expected_source": "rag_evaluation.md"
+  },
+  {
+    "question": "How should document assistants handle access control?",
+    "expected_source": "responsible_ai.md"
+  },
+  {
+    "question": "What components of a RAG system need versioning?",
+    "expected_source": "mlops.md"
+  }
+]
