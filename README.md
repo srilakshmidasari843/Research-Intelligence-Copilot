@@ -1,5 +1,7 @@
 # Research Intelligence Copilot
 
+[🚀 Open the Live Application](https://srilakshmi-research-copilot.streamlit.app)
+
 A production-style Retrieval-Augmented Generation (RAG) application that turns
 research documents into a searchable, cited knowledge base.
 
